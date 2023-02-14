@@ -20,7 +20,7 @@
  * version 0.1
  */
 
-#include "mindsensors-lightsensorarray.h"
+#include "../include/mindsensors-lightsensorarray.h"
 
 task main {
   tByteArray signalstr;
