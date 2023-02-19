@@ -1,2 +1,2 @@
 # robot_software
-Software to for run ev3 on roboCup
+Software per ev3 da usare durante la robocup
